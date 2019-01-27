@@ -20,7 +20,6 @@ export default class App extends Component {
         <Header text={"REACT NATIVE"} />
         <Text style={styles.textStyle}>Some of the things in here might not look like JavaScript to you.</Text>
         <Text style={styles.textContent}>Don't panic. This is the future.</Text>
-        <Main text={"REACT NATIVE MAIN"}/>
       </View>
     );
   }

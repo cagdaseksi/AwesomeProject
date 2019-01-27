@@ -18,19 +18,7 @@ const styles = StyleSheet.create({
         fontWeight:'bold'
     },
     viewStyle: {
-        backgroundColor: '#f8f8f8',
-        height:70,
-        justifyContent:'center',
-        textAlign:'center',
-        marginTop:30,
-        shadowColor: "#000",
-        shadowOffset: {
-            width: 0,
-            height: 3,
-        },
-        shadowOpacity: 0.29,
-
-        elevation: 7,
+        
     }
 });
 
